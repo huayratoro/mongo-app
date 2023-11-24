@@ -13,3 +13,4 @@ npm install dotenv
 ### crear utils/index.js y controller/controller.js y database/mongodb.js
 ### crear la licencia
 ### subo repo a github
+### crear directorio log/
