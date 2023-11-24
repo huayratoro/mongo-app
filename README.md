@@ -14,3 +14,4 @@ npm install dotenv
 ### crear la licencia
 ### subo repo a github
 ### crear directorio log/
+### npm i mongodb
